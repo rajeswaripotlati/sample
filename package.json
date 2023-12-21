@@ -6,7 +6,12 @@
 "main" : "Censortext",
       "repository" : {
             "type": "git",
-            "URL" :
+            "URL" :"https://github.com/rajeswaripotlati/sample.git",
+      },
+      "keywords":[
+            "censor",
+            "words"
+      ],
 "dependencies" : { },
 "engines" : {
       "node": "*"
